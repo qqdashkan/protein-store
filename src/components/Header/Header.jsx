@@ -1,4 +1,4 @@
-import logo from "../../assets/go-on-logo.svg";
+import logo from "/go-on-logo.svg";
 import PermIdentityIcon from "@mui/icons-material/PermIdentity";
 import ShoppingCartOutlinedIcon from "@mui/icons-material/ShoppingCartOutlined";
 import FavoriteBorderIcon from "@mui/icons-material/FavoriteBorder";
