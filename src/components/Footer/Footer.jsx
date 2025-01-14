@@ -1,5 +1,5 @@
 "use client";
-import logo from "../../assets/go-on-logo.svg";
+import logo from "/go-on-logo.svg";
 import { Typography } from "@material-tailwind/react";
 
 const LINKS = [
