@@ -1,4 +1,4 @@
-const mtConfig = require("@material-tailwind/react").mtConfig;
+import { mtConfig } from "@material-tailwind/react";
 
 /** @type {import('tailwindcss').Config} */
 export default {
